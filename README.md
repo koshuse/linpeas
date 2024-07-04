@@ -1,0 +1,2 @@
+# linpeas
+only linpeas
